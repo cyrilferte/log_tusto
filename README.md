@@ -17,9 +17,12 @@
 ### objectif du jour :
     - Back de messagerie
 ### travail effectuer :
-    - 
+    - Back de messagerie (sans test ; il reste à l'adapter au systeme d'authentification)
+    - instalation du l'app angular en local 
+    - debut des test de models
 ### travail à faire demain :
-    -
+    - Systeme d'authentifiquation 
+    - fin du back de messagerie
 
 
 
