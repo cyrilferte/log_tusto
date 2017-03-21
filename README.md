@@ -24,7 +24,15 @@
     - Systeme d'authentifiquation 
     - fin du back de messagerie
 
-
+## Day 3
+### objectif du jour :
+    - Systeme d'authentifiquation
+### travail effectuer :
+    - Systeme d'authentifiquation coté front creer post
+    - Systeme d'authentifiquation back login tester (postman)
+### travail à faire demain :
+    - fin du Systeme d'authentifiquation 
+    
 
 ## Day X
 
