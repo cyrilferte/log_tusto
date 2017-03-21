@@ -31,8 +31,21 @@
     - Systeme d'authentifiquation coté front creer post
     - Systeme d'authentifiquation back login tester (postman)
 ### travail à faire demain :
-    - fin du Systeme d'authentifiquation 
+    - fin du Systeme d'authentifiquation    
     
+## Day 4
+### objectif du jour :
+    - Systeme d'authentifiquation
+### travail effectuer :
+    - Systeme d'authentifiquation coté front login
+    - Systeme d'authentifiquation coté front sign_up
+    - Systeme d'authentifiquation coté back sign_up
+### travail à faire demain :
+    - affichage des données utilisateur
+    - token coté front
+    
+    
+
 
 ## Day X
 
