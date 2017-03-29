@@ -44,9 +44,62 @@
     - affichage des données utilisateur
     - token coté front
     
+## Day 5
+
+### objectif du jour :
+    - token coté front
+### travail effectuer :
+    - token coté front
+### travail à faire demain :
+    -auth avec les reseaux sociaux
+
+## Day 6
+
+### objectif du jour :
+    - auth avec les reseaux sociaux
+### travail effectuer :
+    - auth avec les reseaux sociaux initialsation coté back
+### travail à faire demain :
+    -
     
+## Day 7
 
+### objectif du jour :
+    - 
+### travail effectuer :
+    - auth avec les reseaux sociaux initialsation coté back
+    - auth avec les reseaux sociaux étudier les echange back et front
+    - auth avec les reseaux sociaux facebook fail (on doit attendre d'être sur les serveur de prod)
+### travail à faire demain :
+    -
 
+## Day 8
+
+### objectif du jour :
+    - auth avec les reseaux sociaux 
+### travail effectuer :
+    - auth avec les reseaux sociaux github ok
+    - auth avec les reseaux sociaux google + ok
+    - auth avec les reseaux sociaux twitter ok
+    - look vimeo api
+### travail à faire demain :
+    - 
+    
+## Day 9
+
+### objectif du jour :
+    - fiche ingredient 
+### travail effectuer :
+    - fiche ingredient coté back
+    - travail sur l'auth
+    - discution sur les communauté
+### travail à faire demain :
+    - commencer le back de communauté
+    
+    
+    
+    
+    
 ## Day X
 
 ### objectif du jour :
