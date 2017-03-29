@@ -97,7 +97,16 @@
     - commencer le back de communauté
     
     
-    
+## Day 10
+
+### objectif du jour :
+    - community
+### travail effectuer :
+    - community feature 
+    - community architecture
+    - auth try fix bug
+### travail à faire demain :
+    - community fonctions
     
     
 ## Day X
