@@ -112,6 +112,17 @@
 ## Day X
 
 ### objectif du jour :
+    - community fonctions de base
+### travail effectuer :
+    - community fonctions de base
+    - problème d'auth RESOLU ^^
+### travail à faire demain :
+    - community fonctions plus avancer
+    
+    
+## Day X
+
+### objectif du jour :
     - 
 ### travail effectuer :
     - 
