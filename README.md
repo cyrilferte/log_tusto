@@ -109,7 +109,7 @@
     - community fonctions
     
     
-## Day X
+## Day 11
 
 ### objectif du jour :
     - community fonctions de base
@@ -119,6 +119,72 @@
 ### travail à faire demain :
     - community fonctions plus avancer
     
+    
+## Day 12
+
+### objectif du jour :
+    - event 
+    -back office
+### travail effectuer :
+    - event
+    - modif des reponse pour le front
+    - active admin à jour
+### travail à faire demain :
+    -multiedition
+    
+## Day 13
+
+### objectif du jour :
+    - multiedition
+### travail effectuer :
+    - multiedition grace au tutorialship
+### travail à faire demain :
+    -
+    
+    
+## Day 14
+
+### objectif du jour :
+    - tutorials privacy
+### travail effectuer :
+    - gestion des privacy et des atribution dans des groupes
+### travail à faire demain :
+    - search
+    
+    
+## Day 15
+
+### objectif du jour :
+    - search home
+### travail effectuer :
+    - Search pour la home
+    - Gestion des routes
+### travail à faire demain :
+    -search index
+    
+    
+## Day 16
+
+### objectif du jour :
+    - search
+### travail effectuer :
+    - creation du Search index
+### travail à faire demain :
+    -request
+    
+## Day 17
+
+### objectif du jour :
+    - request
+### travail effectuer :
+    - request
+    - follow
+    - likes
+### travail à faire demain :
+    -user profile 
+    -architecture suivie des données
+    
+
     
 ## Day X
 
